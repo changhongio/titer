@@ -1,2 +1,2 @@
-# titer
+# [Titer]
 API automation test service
